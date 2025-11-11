@@ -145,4 +145,4 @@ Developed by **Naga Sai Chilukoti**.
 """)
 
 st.sidebar.subheader("📩 Contact")
-st.sidebar.write("📧 Email: nagasaichilukoti71@gmail.com")
+st.sidebar.write("📧 Email: satyasaikumar272@gmail.com")
